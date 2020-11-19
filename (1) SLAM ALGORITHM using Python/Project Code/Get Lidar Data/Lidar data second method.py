@@ -8,12 +8,9 @@ import numpy as np
 ###############################
 #
 #  Lidar Print
-#
-#  By: John McCormack
-#  www.jdmccormack.com
 #  
 #  A simple class for interfacing to the 
-#  Robopeak RPLidar using Python.
+#  SLAMTEC RPLidar using Python.
 #  
 #  Built for Windows, one line needs to be
 #  changed for mac or linux
